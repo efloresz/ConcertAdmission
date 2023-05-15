@@ -10,7 +10,7 @@ public class Main {
         System.out.print("Enter your age: ");
         int userAge = scanner.nextInt();
 
-        if (userAge > 13){
+        if (userAge >= 13){
             System.out.println("Congrats! " + userName + " you meet the requirements.");
             System.out.print("How many tickets would you like to purchase? ");
             int ticketsPurchased = scanner.nextInt();
