@@ -4,7 +4,7 @@
 
 # What I Learned:
 * Loop Conditionals
-* Data Validation and Valculations 
+* Data Validation and Calculations 
 * User Input and Output
 ## Sample outputs:
 <p>
