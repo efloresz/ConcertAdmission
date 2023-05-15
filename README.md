@@ -1,5 +1,5 @@
 # ConcertAdmission
-* This program determines if a user is granted concert admissions based on data input validation. 
+* This program determines if user is granted concert admissions based on data input validation. 
 * The program calculates the ticket price based on the number of tickets purchased. 
 
 # What I Learned:
