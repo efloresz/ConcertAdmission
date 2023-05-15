@@ -3,9 +3,9 @@
 * The program calculates the ticket price based on the number of tickets purchased. 
 
 # What I Learned:
-*
-*
-*
+* Loop Conditionals
+* Data Validation and Valculations 
+* User Input and Output
 ## Sample outputs:
 <p>
   <img alt="Greater than 3 tickets purchased" src="https://github.com/efloresz/ConcertAdmission/assets/110843762/e99a940c-8c0f-4473-af01-cab8d8f53cfe">
