@@ -1,8 +1,8 @@
 // Author: Emily Flores
 // Purpose: Simulates concert admission with data validation & ticket prices 
 // Date Modified: 05/15/23
-import java.util.Scanner;
 
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
